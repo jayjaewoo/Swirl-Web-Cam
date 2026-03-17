@@ -30,14 +30,14 @@ OpenCV를 활용한 실시간 웹캠 영상 처리 및 녹화 프로그램입니
 ### 2-1. Weak Mode
 ![swirl_weak](screenshot/swirl_mode_weak.png)
 
-![Weak Video](screenshot/weak_video.mp4)
+![Weak Video](screenshot/weak_video.gif)
 
 * 클릭 위치를 중심으로 좁은 반경에서 부드럽게 회전합니다.
 
 ### 2-2. Strong Mode
 ![swirl_strong](screenshot/swirl_mode_strong.png)
 
-![Strong Video](screenshot/strong_video.mp4)
+![Strong Video](screenshot/strong_video.gif)
 
 * 빠른 속도와 넓은 반경으로 화면 전체를 강하게 뒤틀어버립니다.
 
